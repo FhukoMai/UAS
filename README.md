@@ -43,3 +43,6 @@ Pastikan stack Docker Compose sedang berjalan. Test akan mengakses endpoint pada
    ```bash
    pytest tests/
    ```
+
+## Demo Video
+[https://youtu.be/a8sbiMEkMc0?si=brDiFlxnBLpz09s7]
